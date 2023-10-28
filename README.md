@@ -1,1 +1,1 @@
-# FindYourGames script
+# FindYourGames
